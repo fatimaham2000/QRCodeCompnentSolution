@@ -53,4 +53,7 @@ footer{
     .container{
         box-shadow: 1px 5px 30px -15px hsl(220, 15%, 55%);
     }
+    footer{
+        padding: 1em 0;
+    }
 }
