@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    font-size:1.125rem;
+    font-weight: 300;
+    background-color: hsl(212, 45%, 89%);
+    
+}
+p{
+    font-size: 15px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 3em auto;
+    
+    max-width: 250px;
+    background-color: hsl(0, 0%, 100%);
+    
+    padding: 1em;
+    border-radius: 5%;
+    text-align: center;
+    
+    box-shadow: 2px 4px 20px -6px hsl(220, 15%, 55%);
+}
+img{
+    border-radius: 5%;
+    margin-bottom: 0.40em;
+}
+h3{
+    font-weight: 700;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+}
+.attribution { font-size: 11px;
+     text-align: center;
+     }
+.attribution a { color: hsl(228, 45%, 44%); }
+p{
+    color: hsl(220, 15%, 55%);
+    margin: 0;
+    padding: 0;
+}
+footer{
+    margin: 0;
+    padding: 0.15em 0;
+    
+
+}
+@media (max-width: 375px){
+    .container{
+        box-shadow: 1px 5px 30px -15px hsl(220, 15%, 55%);
+    }
+}
