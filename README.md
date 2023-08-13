@@ -70,7 +70,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Fatima Al Mahfoodh](https://github.com/fatimaham2000)
-- Frontend Mentor - [@@fatimaham2000](https://www.frontendmentor.io/profile/fatimaham2000)
+- Website - [Fatima Al Mahfoodh Repo](https://github.com/fatimaham2000)
+- Frontend Mentor - [@fatimaham2000](https://www.frontendmentor.io/profile/fatimaham2000)
 
 
