@@ -22,7 +22,7 @@ This repository contains the solution of the Frontend Mentor QR code component c
 
 ### Screenshot
 
-![](./screenshot.png)
+![](screenshot.png)
 
 
 
